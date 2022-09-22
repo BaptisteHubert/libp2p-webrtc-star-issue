@@ -1,3 +1,6 @@
+# ⛔️ This repository has been archived
+As the [issue](https://github.com/libp2p/js-libp2p-webrtc-star/issues/453) referenced below has been [fixed](https://github.com/libp2p/js-libp2p-webrtc-star/pull/456), this repository will no longer be maintained.
+
 # libp2p-webrtc-star-issue
 This repository serves as an example for the signalling server issues when using @libp2p/webrtc-star
 
